@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Saikotbd</title>
+	<atom:link href="https://saikotbd.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saikotbd.com</link>
+	<description>Web Developer and Wordpress Specialist</description>
+	<lastBuildDate>Wed, 26 May 2021 11:49:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://saikotbd.com/wp-content/uploads/2021/05/favicon-1.ico</url>
+	<title>Saikotbd</title>
+	<link>https://saikotbd.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">193737720</site>	<item>
+		<title>This is my Forth post second title large in the blog</title>
+		<link>https://saikotbd.com/this-is-my-forth-post-second-title-large-in-the-blog/</link>
+					<comments>https://saikotbd.com/this-is-my-forth-post-second-title-large-in-the-blog/#comments</comments>
+		
+		<dc:creator><![CDATA[Asif Arman Saikot]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 13:18:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[WEB]]></category>
+		<guid isPermaLink="false">https://saikotbd.com/?p=474</guid>
+
+					<description><![CDATA[This is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blog]]></description>
+										<content:encoded><![CDATA[<p>This is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blog</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saikotbd.com/this-is-my-forth-post-second-title-large-in-the-blog/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">474</post-id>	</item>
+		<item>
+		<title>Duplicated: How to make a website.</title>
+		<link>https://saikotbd.com/duplicated-how-to-make-a-website/</link>
+					<comments>https://saikotbd.com/duplicated-how-to-make-a-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Asif Arman Saikot]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 13:17:13 +0000</pubDate>
+				<category><![CDATA[Web Development]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[WEB]]></category>
+		<guid isPermaLink="false">https://saikotbd.com/?p=472</guid>
+
+					<description><![CDATA[This is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blogThis is my second post second title large in the blog]]></description>
+										<content:encoded><![CDATA[<p>Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to theWelcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy  joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy Welcome to the joy</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saikotbd.com/duplicated-how-to-make-a-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">472</post-id>	</item>
+		<item>
+		<title>What is WordPress?</title>
+		<link>https://saikotbd.com/duplicated-this-is-third-posts-i-would-like-to-create-how-we-are/</link>
+					<comments>https://saikotbd.com/duplicated-this-is-third-posts-i-would-like-to-create-how-we-are/#comments</comments>
+		
+		<dc:creator><![CDATA[Asif Arman Saikot]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 13:15:58 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[WEB]]></category>
+		<guid isPermaLink="false">https://saikotbd.com/?p=470</guid>
+
+					<description><![CDATA[WordPress is an open-source content management system (CMS) that makes it easy to create and manage a website. It is the most popular CMS in the world. Millions of business owners, bloggers, and publishers use WordPress every day to maintain their online presence.]]></description>
+										<content:encoded><![CDATA[<h2 class="gb-text-base">WordPress definition</h2>
+<p class="gb-mb-0">WordPress is an open-source content management system (CMS) that makes it easy to create and manage a website. It is the most popular CMS in the world. Millions of business owners, bloggers, and publishers use WordPress every day to maintain their online presence.</p>
+<section class="gb-section gb-mb-7">An &#8220;open-source content management system written in PHP&#8221; may sound complicated, but really isn’t. Think of WordPress open-source management as a piece of software that&#8217;s built just to make it easy to create and edit your own websites. To get started, you log into your dashboard, and from there you can create new pages, make blog posts, update your website’s visual appearance, and more.</p>
+<p>The main advantage of using the WordPress platform is that you don’t need any coding skills to put your content online. WordPress uses a database to store and organize all of your data, from the content in your posts and pages to your user accounts and site URLs, It does all of the work for you. This is what makes it such a fast, powerful tool for publishing online.</p>
+<p>When it comes to creating a new page on your site or a blog post, there’s little difference between the WordPress content editor and your typical desktop word processor. Type your text, add images, click &#8220;publish&#8221; and WordPress generates the HTML needed for your content to appear online.</p>
+<p>Most importantly, WordPress is free to use: there are no setup fees or annual costs outside of hosting. With thousands of available themes and <a href="https://www.namecheap.com/hosting/wordpress-hosting/wordpress-plugins/">plugins</a>, it&#8217;s widely considered one of the best ways for businesses to create a truly customized website.</p>
+<picture class="gb-d-block gb-text-center gb-mb-7"><img src="https://i0.wp.com/static.nc-img.com/uxteam/lc.simple-pages/easywp-content/img/seo-what-is-wordpress-1.d3763957.png?w=800&#038;ssl=1" alt="A graphic showing the definition of WordPress, also introducing what it is used for." data-recalc-dims="1" /></picture></section>
+<section>
+<h2 class="gb-h1 gb-text-center gb-text-base">WordPress is a powerful content management system.</h2>
+<p>A <span class="gb-text-bold">content management system (CMS)</span> gives users an intuitive interface for adding and modifying content on a website. All content appearing on a WordPress site, from the text to the visual elements are created and optimized with the help of its CMS. This single piece of software serves as the heart of a website, providing users with the tools to update the look of their digital content without any technical training.</p>
+<p class="gb-mb-7">CMS software gives you the power to build your own website in the same DIY spirit you run it. No more waiting on programmers to update your pages or fix a tiny error; you can publish and change the contents of your pages personally. This process saves time and money while giving you full control over your site.</p>
+<div class="gb-row gb-mb-2">
+<div class="gb-col-md-6 gb-mb-4">
+<div class="gb-well gb-well--vertical-stretch gb-px-5 gb-py-5">
+<div class="gb-media gb-media--vertical"><picture class="gb-media__object gb-mb-5"><img src="data:image/png;base64,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" alt="people icon" /></picture>
+<div class="gb-media__holder">
+<h3 class="gb-h2">What is WordPress used for?</h3>
+<p>People will all levels of experience can work with WordPress. It’s the largest self-hosted content management tool in the world, and over 26% of all websites are powered by it — in fact, over half of the websites that use a CMS use WordPress! Millions of people online read content published on WordPress sites every day thanks to its popularity with publishers, online businesses and individuals. Brands such as People magazine, Mashable and even Beyonce use this powerful, intuitive CMS.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="gb-col-md-6 gb-mb-4">
+<div class="gb-well gb-well--vertical-stretch gb-px-5 gb-py-5">
+<div class="gb-media gb-media--vertical"><picture class="gb-media__object gb-mb-5"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAAe1BMVEUAAAD////////////////////////////////////////7/P3////////////////////y9/ro8fXX5+7N4OnB2eS10d6oytmQus13q8JgnbhIjq0ygKMoep8gdZsedJoccpkYcJicwtNUlrMTbZWDsshrpL0+iKnf7PH/oFmrAAAAEXRSTlMACxo/anmKts7i8v//llQsodvPGIIAABWQSURBVHgB7NjFgUQhEEXRwaniIflHO9te8lvQOiFcnD+xFaW0sc75EIk54UViphiyc7ZUpW7PpIvzgdCFY3b2zmbKOB8THkuUXdHqovlkfcRHKLuqbgiVCV/B4ehgqnjCV3G2+sRS2raEX4iunlYqoIP06i4lvZTJCWOEovaeVI4wEPt9p5dp6CLTS5WIKcjq7TZ1QhdZjdox5sq75NI+Yb5Wt5hVnakkl7KMdeSlt/pCWAo7tWoqE7EcKmtuVg1Lima9VpaxqqxlBW66FpXH4kKVadWPrUyr8ZNr0LSSyeWwkaZnpqoBWyEzr1Vh7MbNauWxoTBlKeqATrIUDWFXdnQri41l2a4eCGpcKtWwuViHbe0R2+NB23wlnKCMaGUYneRQLDiGk1YP+FVaSS2LwzRp9UCTVvNrFRzJS6sHvLSaed8y6CV3+croJO9ETTib+V4rFXG4VL8WK+B4pOUPefhPs8UVslwaxl4gNOMWRjb3fqxlc+8X5EU46k2tE+5ShmxYsm05XCfIDev3ty1FuFGVW0O/qH6wCOWXefIi/GfWOrQcRGLYu164NvQ2sg1mhv//wSts3hFStmISbe+LYsmyh8SlWV4UZVVVZVHkWeqS5xfi4SJM0ryqm7brvQeBRYRB8L7v2qYuc3esED+8dD/uf3P50Iw9RFWEmf4DgOUts4gqox+nKkuetiP+fFBFZUOIUBUmwomcFSJ8+ryoIIZqPoiwb59v4ZcUUwdVJoBYVMn7OLahaer/0DSh7aIHL1QCJCp+rPPk8dH0+JkwnyKpnFhAbKehXA19Nfy8PIn09K3o6uy5ZkTzu5HTYYQKncplqjL3hq1VTedFefkJ31bO+vzim6eJWNnUn5ii2FRp8j7RzlWIvPycSqxn47D1JO5eBCgDrBSn4mN6d0UTRRkQ9U1mvX54/Mav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" alt="wordpress logo" /></picture>
+<div class="gb-media__holder">
+<h3 class="gb-h2">A True Collaboration</h3>
+<p>WordPress is a community of thousands of volunteers creating everything from the documentation to the code itself. We’re talking about one of the most up-to-date CMSs available since hundreds of people add to and improve upon its features every day. This type of collaboration online is known as an open source project which is free for everyone to use.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="gb-section gb-mb-7">
+<h2 class="gb-h1 gb-text-center gb-text-base">Is WordPress Free?</h2>
+<p>The WordPress platform is completely free to use for commercial or private use with no hidden catches. This software is available at zero cost because it’s run entirely by volunteers contributing to an open source project. Open source software is not like other tangible products since no company or individual owns WordPress. For this reason, it&#8217;s entirely reliant on volunteers to maintain, support and develop it.</p>
+<p class="gb-mb-7">The WordPress community exists because everyone from budding developers to designers give up their time and energy offering their services for free to all users because they believe in the valuable service WordPress provides. The latest release, &#8220;<a href="https://wordpress.org/news/2017/11/tipton/" target="_blank" rel="noopener noreferrer nofollow">Tipton</a>&#8221; was only made possible through the efforts of a group of 443 contributors.</p>
+</section>
+<section class="gb-section gb-mb-7">
+<h2 class="gb-h1 gb-text-center gb-text-base">Is WordPress easy to use?</h2>
+<p>WordPress empowers business owners, bloggers, and publishers with the full capability to build, publish and manage their content. With its straightforward interface, WordPress is perfect for users more comfortable with word processors than FTP programs and hand-coded web pages. Ease of use is just the beginning. Developers have published thousands of WordPress themes, plugins, and widgets that let you create a site that&#8217;s truly yours.</p>
+<p>WordPress has a simple user interface that makes it easy for anyone to get their new site online. Whether you&#8217;re tech-savvy or a complete computer novice, you&#8217;ll find few obstacles to getting started. The WordPress platform is designed to eliminate challenges business owners and authors face with web publishing. It&#8217;s not only powerful but full of options which speak to beginners and pros alike.</p>
+<p>This software software requires no advanced computer knowledge to add and edit your content, and no downloads are necessary because you handle everything in-browser. Best of all, instead of paying for webmasters, you can take care of your website in-house. You can even grant access to multiple users to manage the website or a section of the content if you’d prefer to share the work.</p>
+<picture class="gb-d-block gb-text-center gb-mb-7"><img src="https://i1.wp.com/static.nc-img.com/uxteam/lc.simple-pages/easywp-content/img/seo-what-is-wordpress-2.23c6b036.png?w=800&#038;ssl=1" alt="An illustration of many people using WordPress to create their own websites." data-recalc-dims="1" /></picture></section>
+<section class="gb-section gb-mb-7">
+<h2 class="gb-h1 gb-text-center gb-text-base">Using WordPress to quickly create websites</h2>
+<p>Branding is more important than ever, and your website should accurately reflect both yourself and your business. As luck would have it, WordPress has multiple themes and widgets to bring style and personality to your pages. Well-designed pages will catch the attention of your readers and create interest in your content.</p>
+<p class="gb-mb-4">Your content is how you communicate with visitors to your website, and you want to make sure they find your pages user-friendly. Information should be well presented and easy to navigate. Fortunately, WordPress has plenty of tools to format your website in a way that allows users to move from one page to the next with ease.</p>
+<div class="gb-media gb-media--small-image gb-mb-4"><picture class="gb-media__object gb-mb-5"><img src="https://i0.wp.com/static.nc-img.com/uxteam/lc.simple-pages/easywp-content/img/multi-web-green-alt.f6321c99.png?w=800&#038;ssl=1" alt="websites icon" data-recalc-dims="1" /></picture>
+<div class="gb-media__holder">
+<h2 class="gb-text-base">WordPress themes for every business</h2>
+<p class="gb-mb-0">Using a professionally-made <a href="https://www.namecheap.com/hosting/wordpress-hosting/wordpress-themes/">WordPress Theme</a> brings a professional and polished look to your site. A striking and consistent style is essential to convey your brand image and differentiate yourself from your competition. Adding one can be as simple as selecting a new skin for your phone and has a great impact on your site’s appeal. There are formats for every type of website, whether you’re a tech blogger running an affiliate website or a local bookstore that wants to keep your customers up to date.</p>
+</div>
+</div>
+<div class="gb-media gb-media--small-image gb-mb-4"><picture class="gb-media__object gb-mb-5"><img src="https://i0.wp.com/static.nc-img.com/uxteam/lc.simple-pages/easywp-content/img/uptime-blue-alt.08936b7d.png?w=800&#038;ssl=1" alt="plugins icon" data-recalc-dims="1" /></picture>
+<div class="gb-media__holder">
+<h2 class="gb-text-base">WordPress Plugins</h2>
+<p class="gb-mb-0">Plugins are exactly what they sound like &#8211; small bits of software that you plug into your WordPress installation to expand its functionality. At the time of writing, WordPress offers 51,000 ways to extend the functions or add new features to your WordPress website. These add-ons range from useful plugins protecting your site from spam to adding a forum or checking your visitor stats. They are simple to add, just select the functions you like the sound of without having to know a single line of code.</p>
+</div>
+</div>
+<div class="gb-media gb-media--small-image gb-mb-7"><picture class="gb-media__object gb-mb-5"><img src="https://i2.wp.com/static.nc-img.com/uxteam/lc.simple-pages/easywp-content/img/performance-orange-alt.c8e451a5.png?w=800&#038;ssl=1" alt="speedometer icon" data-recalc-dims="1" /></picture>
+<div class="gb-media__holder">
+<h2 class="gb-text-base">WordPress Widgets</h2>
+<p class="gb-mb-0">Want an events calendar on your site? There&#8217;s a widget for that! There are many types of widgets; each performs a particular function to improve the overall user experience. Choose from on-page elements, such as a navigation menu, search bar or a menu to display your most recent blog posts. The location of widgets on a page varies from theme to theme. They can fit discreetly into sidebars or widget-ready areas allocated on your web page.</p>
+</div>
+</div>
+</section>
+<section class="gb-section gb-mb-7">
+<h2 class="gb-h1 gb-text-center gb-text-base">WordPress security works for you.</h2>
+<p>Breaches in <a href="https://www.namecheap.com/security.aspx">website security</a> make headlines and cause a nuisance to both site owners and visitors. Cyber attacks aren&#8217;t limited to larger companies, bloggers and smaller businesses are just as vulnerable. Since many small websites don&#8217;t take security measures seriously, they become prime targets for hacking, malware, and phishing. Google takes website security very seriously, and compromised sites can find themselves removed from their search index.</p>
+<p class="gb-mb-7">The popularity of content management systems makes them a prime target for hackers. For this reason, WordPress is constantly updated to be as secure as possible. In addition to the core software updates, there are a number of backup solutions and security plugins that can keep your website safe. If security is a primary concern on your website, we suggest choosing a hosting company who can support you if you come across any problems. Namecheap&#8217;s EasyWP, for example, offers easy backup and 24/7/365 support.</p>
+</section>
+<section class="gb-mb-7">
+<h2 class="gb-h1 gb-text-center gb-text-base">WordPress Support Services Available</h2>
+<p>There are infinite resources online to assist your development with WordPress. Tap into support catering for every learning style from step by step articles, how-to guides, and online video tutorials. Q+A forums facilitate constant knowledge exchange documenting answers to the most common and new WordPress user queries.</p>
+<p class="gb-mb-7">The official <a href="https://wordpress.org/support/" target="_blank" rel="noopener noreferrer nofollow">WP Support Forum</a> is a great place to start should you come across a stumbling block but there&#8217;s plenty more besides. MonsterPost blog posts daily bite-sized &#8216;<a href="https://www.templatemonster.com/blog/tag/wordpress-hacks/" target="_blank" rel="noopener noreferrer nofollow">WordPress Hacks</a>,&#8217; tips on how you can make your WordPress website better and <a href="http://www.wpbeginner.com/" target="_blank" rel="noopener noreferrer nofollow">WPBeginner</a> is an excellent resource for those just starting out. Hands-on users can find these tools invaluable, but you may not have the time or energy to manage it yourself. That&#8217;s why we offer <a href="https://www.namecheap.com/hosting/wordpress-hosting/">EasyWP</a>.</p>
+</section>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saikotbd.com/duplicated-this-is-third-posts-i-would-like-to-create-how-we-are/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">470</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: saikotbd.com @ 2021-05-28 04:00:15 by W3 Total Cache
+-->

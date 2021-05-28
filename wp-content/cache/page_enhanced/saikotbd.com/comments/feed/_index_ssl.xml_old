@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Saikotbd	</title>
+	<atom:link href="https://saikotbd.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saikotbd.com</link>
+	<description>Web Developer and Wordpress Specialist</description>
+	<lastBuildDate>Wed, 26 May 2021 16:33:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Comment on What is WordPress? by Asif Arman Saikot		</title>
+		<link>https://saikotbd.com/duplicated-this-is-third-posts-i-would-like-to-create-how-we-are/#comment-3</link>
+
+		<dc:creator><![CDATA[Asif Arman Saikot]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 16:33:28 +0000</pubDate>
+		<guid isPermaLink="false">https://saikotbd.com/?p=470#comment-3</guid>
+
+					<description><![CDATA[This is a test comments]]></description>
+			<content:encoded><![CDATA[<p>This is a test comments</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on This is my Forth post second title large in the blog by Asif Arman Saikot		</title>
+		<link>https://saikotbd.com/this-is-my-forth-post-second-title-large-in-the-blog/#comment-2</link>
+
+		<dc:creator><![CDATA[Asif Arman Saikot]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 16:05:34 +0000</pubDate>
+		<guid isPermaLink="false">https://saikotbd.com/?p=474#comment-2</guid>
+
+					<description><![CDATA[This is a good coomenstsasb]]></description>
+			<content:encoded><![CDATA[<p>This is a good coomenstsasb</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: saikotbd.com @ 2021-05-28 04:01:47 by W3 Total Cache
+-->

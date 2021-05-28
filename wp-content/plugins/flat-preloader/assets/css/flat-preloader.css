@@ -1,0 +1,59 @@
+.wp-preloading-wrapper {
+  background: white;
+  margin: 40px;
+  padding: 30px;
+  max-width: 900px;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+}
+
+.wp-preloading-wrapper label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.wp-preloading-wrapper .form-group {
+  margin-bottom: 1rem;
+}
+
+.wp-preloading-section {
+  margin-bottom: 3rem;
+}
+
+.wp-preloading-section h2 {
+  margin: 0
+}
+
+.wp-preloading-section ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.preloader-item {
+  padding: 10px;
+}
+
+.preloader-item img {
+  display: block;
+  width: 40px;
+  padding: 5px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.preloader-item img:hover {
+  border: 2px solid #e8e8e8;
+}
+
+.preloader-item input[type="radio"] {
+  position: absolute;
+  left: -999999px;
+}
+
+.preloader-item input[type="radio"]:checked + img {
+  border: 2px solid #0071A1;
+}
+
+input[type="submit"] {
+  margin-top: 30px;
+}

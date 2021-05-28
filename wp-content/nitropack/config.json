@@ -1,0 +1,19 @@
+{
+    "saikotbd.com": {
+        "siteId": "UQdlXfJqGbqZMDqAtQazcrOeCsuXPIDj",
+        "siteSecret": "GUC2eKTxdOUD33829tQPrml7xl5zXIuUHISdcBdec09XoS9pmak7GqUtiG04Xyau",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "6ac3676adc1c433012640929f1041ba8",
+        "home_url": "https:\/\/saikotbd.com",
+        "admin_url": "https:\/\/saikotbd.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.4"
+    }
+}
